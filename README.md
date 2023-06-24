@@ -37,7 +37,7 @@ Welcome to my GitHub repository! I am an experienced Data Analyst with a strong 
 - Bachelor's in Computer Science - Al Al-Bayt University, Mafraq, Jordan (2019)
 
 ## Projects
-- [Stroke Prediction](link-to-project-file): A project involving the prediction of stroke occurrence based on various health indicators.
+- [Stroke Prediction](Stroke_Prediction.pdf): A project involving the prediction of stroke occurrence based on various health indicators.
 - [Temperature Prediction](link-to-project-file): Predicting temperature patterns using historical weather data.
 - [YouTube Analysis](link-to-project-file): Analyzing YouTube data to gain insights into user behavior and engagement.
 
