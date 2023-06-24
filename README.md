@@ -38,8 +38,8 @@ Welcome to my GitHub repository! I am an experienced Data Analyst with a strong 
 
 ## Projects
 - [Stroke Prediction](Stroke_Prediction.pdf): A project involving the prediction of stroke occurrence based on various health indicators.
-- [Temperature Prediction](link-to-project-file): Predicting temperature patterns using historical weather data.
-- [YouTube Analysis](link-to-project-file): Analyzing YouTube data to gain insights into user behavior and engagement.
+- [Temperature Prediction](Temperature_Prediction.pdf): Predicting temperature patterns using historical weather data.
+- [YouTube Analysis](youtube_analysis.pdf): Analyzing YouTube data to gain insights into user behavior and engagement.
 
 Feel free to explore my projects and reach out to me if you have any inquiries or opportunities for collaboration.
 
